@@ -1,0 +1,2 @@
+# chcx
+Addon Manager
